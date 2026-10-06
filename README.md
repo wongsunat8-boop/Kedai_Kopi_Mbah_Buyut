@@ -46,3 +46,7 @@ Database `kedai_kopi_mbah_buyut` terdiri dari 8 tabel utama yang saling terhubun
 2. Buat database baru atau langsung jalankan script SQL yang tersedia:
    ```bash
    mysql -u root -p < schema.sql
+
+
+---------------------------
+Made by: Gemini
